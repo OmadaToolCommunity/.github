@@ -10,13 +10,9 @@ We hope they save you some time, spark an idea, or solve the exact problem you'r
 
 Small, practical tools that were built to solve real problems. They are shared in the spirit of "this worked for us, maybe it'll work for you too."
 
-> _Tip: add a short list or table of your tools here so newcomers can find what they need quickly._
-
 | Tool | What it does | Status |
 |------|--------------|--------|
 | `example-tool` | One-line description | Maintained / Best effort / Archived |
-
----
 
 ## 🤝 What "as-is" means (in plain English)
 
@@ -24,10 +20,10 @@ Everything here is provided **as-is**. In practice, that means:
 
 - ✅ **It will likely work.** We build and use these tools ourselves, and we put in a good-faith, best-effort attempt to make them solid.
 - ⚠️ **It's not guaranteed.** Your environment, data, versions, and setup may differ from ours, and things can break in ways we haven't seen.
-- 🕐 **Support is best-effort.** We may not be able to answer every question or fix every issue, and we can't promise timelines.
+- 🕐 **Support is best-effort.** Issue are fixed at the contributors convenience, and we can't promise timelines.
 - 🔧 **Updates aren't promised.** Tools may change, be replaced, or be retired without notice.
 - 🧪 **Test before you trust.** Please try tools in a safe environment first, and always keep backups before running anything that changes data or systems.
-- 🙋 **You're in charge of how you use it.** You are responsible for reviewing the code and deciding whether it's right for your situation.
+- 🙋 **You're in charge of how you use it.** You are responsible for reviewing the feature set and deciding whether it's right for your situation.
 
 We're sharing these tools because we like being helpful, not because we're offering a product or a service.
 
@@ -36,22 +32,17 @@ We're sharing these tools because we like being helpful, not because we're offer
 ## 🚀 Getting started
 
 1. **Browse** the repository and find a tool that looks useful.
-2. **Read** its README or comments, and look through the code so you know what it does.
+2. **Read** its README or comments.
 3. **Try it safely** in a test environment first.
 4. **Back up** anything important before running it for real.
-5. **Let us know** how it went. Feedback is always welcome!
 
 ---
 
 ## 💬 Questions, bugs, and ideas
 
-We'd love to hear from you:
+Currently the content is provided as read-only with no feedback mechanism.
 
-- 🐛 **Found a bug?** Open an issue and tell us what happened, what you expected, and what environment you're using. Details help a lot!
-- 💡 **Have an idea?** Open an issue or start a discussion.
-- 🔀 **Want to contribute?** Pull requests are welcome. Please keep changes focused, and explain what the change does and why.
-
-Please remember that maintainers help in their spare time and on a best-effort basis. A little patience and kindness goes a long way. 💙
+None of the content shared here is covered by a support agreement and therefore raising tickets related to functionality or use of the tools is not allowed.
 
 ---
 
