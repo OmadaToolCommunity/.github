@@ -13,7 +13,7 @@ Small, practical tools that were built to solve real problems. They are shared i
 | Tool           | What it does         | Status                              |
 | -------------- | -------------------- | ----------------------------------- |
 | [Omada Identity Cloud Query Tool](https://github.com/OICCommunity/Omada-Identity-Cloud-Query-Tool/releases) | Windows desktop client for running SQL Troubleshooting queries | Maintained |
-
+| [](https://github.com/OmadaToolCommunity/Omada-Identity-Cloud-ChangeSetter/releases) | Omada Identity Cloud ChangeSetter is a Windows desktop client for working with change sets on Omada Identity Cloud environments | Maintained |
 ## 🤝 What "as-is" means (in plain English)
 
 Everything here is provided **as-is**. In practice, that means:
