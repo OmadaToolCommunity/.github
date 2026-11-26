@@ -12,7 +12,7 @@ Small, practical tools that were built to solve real problems. They are shared i
 
 | Tool           | What it does         | Status                              |
 | -------------- | -------------------- | ----------------------------------- |
-| `example-tool` | One-line description | Maintained / Best effort / Archived |
+| [Omada Identity Cloud Query Tool](https://github.com/OICCommunity/Omada-Identity-Cloud-Query-Tool/releases) | Windows desktop client for running SQL Troubleshooting queries | Maintained |
 
 ## 🤝 What "as-is" means (in plain English)
 
