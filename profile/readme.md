@@ -14,6 +14,7 @@ Small, practical tools that were built to solve real problems. They are shared i
 | -------------- | -------------------- | ----------------------------------- |
 | [Omada Identity Cloud Query Tool](https://github.com/OICCommunity/Omada-Identity-Cloud-Query-Tool) | Windows desktop client for running SQL Troubleshooting queries | Maintained |
 | [Omada Identity Cloud ChangeSetter](https://github.com/OmadaToolCommunity/Omada-Identity-Cloud-ChangeSetter) | Omada Identity Cloud ChangeSetter is a Windows desktop client for working with change sets on Omada Identity Cloud environments | Maintained |
+| [ODataLoader](https://github.com/OmadaToolCommunity/ODataLoader) | The ODataLoader is a utility for performing bulk Create/Update/Delete operations on Data Objects in Omada Cloud and OnPrem. | Maintained |
 ## 🤝 What "as-is" means (in plain English)
 
 Everything here is provided **as-is**. In practice, that means:
